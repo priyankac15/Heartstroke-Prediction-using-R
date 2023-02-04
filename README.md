@@ -4,8 +4,11 @@ This project focuses on predicting the age in which people get health issues and
 <h1>OVERVIEW</h1>
 
 In this project i worked on a dataset which contains the information of the patients such as their age, gender, health issues etc. The overall goal of this project was to create predictive models for variables age and stroke by using Multiple Linear Regression and Logistic Linear Regression methods. 
-•	Goal1: To predict whether a person has had a heart stroke or not.
-•	Goal2: To predict the age in which people get health issues.
+
+-	Goal1: To predict whether a person has had a heart stroke or not.
+
+-	Goal2: To predict the age in which people get health issues.
+
 Perfomed data cleaning followed by performing EDA, feature selection and fitting/predicting the models in R. 
 
 <h2>
