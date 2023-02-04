@@ -50,6 +50,7 @@ Perfomed data cleaning followed by performing EDA, feature selection and fitting
 
 
 - <b>Goal-1: To predict the Age in which people get health issues:</b>
+
 To predict Age, I have cleaned the data followed by doing Exploratory data analysis. Visualized the relationship between our target (Age) and other variables including numerical & categorical. Next, by plotting a scatterplot matrix, checked the numerical variables which are correlated with the target variable. Also, performed the feature selection methods to choose the variable which can improve our model. Built the Multiple Linear Regression model with all the selected predictors with R Squared 0.66 and RSE is 13.14.
   
 - <b>Goal-2: To predict whether a person has had a heart Stroke or not:</b>
